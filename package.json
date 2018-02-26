@@ -1,0 +1,26 @@
+{
+  "name": "stacker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StackerWidget.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Angelo Perera",
+  "license": "ISC",
+  "dependencies": {
+    "@types/knockout": "^3.4.51",
+    "css-loader": "^0.28.10",
+    "less": "^3.0.1",
+    "less-loader": "^4.0.5",
+    "lodash": "^4.17.5",
+    "style-loader": "^0.20.2",
+    "typescript": "^2.7.2"
+  },
+  "devDependencies": {
+    "knockout": "^3.5.0-beta",
+    "ts-loader": "^4.0.0",
+    "webpack": "^4.0.0",
+    "webpack-cli": "^2.0.9"
+  }
+}

@@ -2,6 +2,10 @@
 
 By Angelo Perera
 
+## Demo
+
+https://s3-ap-southeast-2.amazonaws.com/stacker-game/stacker.html
+
 ## Build Steps
 
 1. `yarn install` (use yarn!) or `npm install`
